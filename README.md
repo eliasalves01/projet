@@ -1,6 +1,6 @@
  Documentação do Site
  ==================
-![Logo de Delicias da Carnes Exoticas](/imagens/logoDocumentacao.png)
+![Logo de Delicias da Carnes Exoticas](/imagens/logo.png)
 
 
 ## Cores
